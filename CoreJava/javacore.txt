@@ -1,0 +1,31 @@
+java core
+James Gosling
+oak(1991)->1996(Java)->reusability->dry->do not repeat yourself
+1-JRE =jdk+libraries+in build classes
+
+JVM: is the virtual machine that runs Java applications. The JVM makes Java platform-independence.
+JRE = JVM + standard libraries: provides environment for executing Java applications.
+JDK = JRE + development tools for compiling and debugging Java applications.
+
+
+1996-2014(1.8) commonly used 
+Lambda Expression
+Method expression
+
+J2SE(Standalone Applcations)
+J2EE(Amazon application)
+J2ME(Mobile solutions)
+
+Definition of object is called class.
+Blueprint of and object is called class.
+
+ Name -Rhombic cube
+Attributes-color,size,brand
+Bahaviour-play(),solve()
+
+Datatypes
+Primitives-can hold single value-Number(byte,short,int,long),
+character-(char)
+True/False-(boolean)
+Floating point-(float ,double)
+Non-Primitives

@@ -1,0 +1,19 @@
+OOPS concept
+
+Encapsulation-Binding code with data
+Inheritance--creating sub/child classes
+Abstraction--Providing an interface and hiding implementation
+Polymorphism--Multiple form of same class or
+                                    a class taking many forms 
+
+
+
+Create product class 
+mobile
+smartmobile
+Querty mobile
+ product->mobile
+
+
+Reading stack is easier.
+Heap is unorganised storage.
